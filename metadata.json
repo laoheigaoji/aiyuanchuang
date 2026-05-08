@@ -1,0 +1,6 @@
+{
+  "name": "AI Content Detector",
+  "description": "检测文案是否为AI生成的小工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
